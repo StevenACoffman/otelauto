@@ -4,7 +4,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/mahboubii/otelauto)](https://goreportcard.com/report/github.com/mahboubii/otelauto)
 [![Documentation](https://godoc.org/github.com/mahboubii/otelauto?status.svg)](https://pkg.go.dev/mod/github.com/mahboubii/otelauto)
 
-An OpenTelemetry (OTel) metric instrumentation helper inspired by prometheus [promauto](github.com/prometheus/client_golang/prometheus/promauto).
+An OpenTelemetry (OTel) metric instrumentation helper inspired by prometheus [promauto](https://pkg.go.dev/github.com/prometheus/client_golang/prometheus/promauto).
 
 By default it's using the global meter provider.
 
